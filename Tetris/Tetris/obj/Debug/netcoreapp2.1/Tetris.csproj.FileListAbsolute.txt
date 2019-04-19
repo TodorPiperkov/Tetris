@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.deps.json
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.dll
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\bin\Debug\netcoreapp2.1\Tetris.pdb
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.dll
+D:\SoftUni\Tech Modul C#\TETRIS\Tetris\Tetris\obj\Debug\netcoreapp2.1\Tetris.pdb
